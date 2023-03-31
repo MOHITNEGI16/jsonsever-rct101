@@ -1,4 +1,5 @@
-{"data":
+{
+    "data":
 [
     {
         
@@ -244,5 +245,20 @@
 
                 }
                 
-]
+],
+
+  "clothing" : [
+        {"id":1,"image":"https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw3afa10eb/merchAssets/SS23/Homepage/hero-carousel/hc-025.jpg"},
+        {"id":2,"image":"https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw6ab5c75a/merchAssets/SS23/Homepage/hero-carousel/hc-037.jpg"},
+        {"id":3,"image":"https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwda90996e/merchAssets/SS23/Homepage/hero-carousel/hc-038.jpg"},
+        {"id":4,"image":"https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw96f37b5f/merchAssets/SS23/Homepage/hero-carousel/hc-027.jpg"},
+        {"id":5,"image":"https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw1c66575d/merchAssets/SS23/Homepage/hero-carousel/hc-039.jpg"},
+        {"id":6,"image":"https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw547fa107/merchAssets/SS23/Homepage/hero-carousel/hc-030.jpg"},
+        {"id":7,"image":"https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw3afa10eb/merchAssets/SS23/Homepage/hero-carousel/hc-025.jpg"}
+    ]
+
+
+
 }
+
+
